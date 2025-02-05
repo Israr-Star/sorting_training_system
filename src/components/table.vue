@@ -222,7 +222,6 @@ const handleDragEnd = () => {
 </script>
 <template>
   <div class="m-[60px]">
-    {{ timer }}
     <Header
       :timer="timer"
       :civilServants="civilServants"
