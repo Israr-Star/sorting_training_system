@@ -11,6 +11,8 @@ Ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (v16 or later recommended)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
+### Deployed App Version: https://sorting-training-system-rose.vercel.app/
+
 ### Installation
 
 1. Clone the repository:
