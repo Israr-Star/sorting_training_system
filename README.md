@@ -48,7 +48,7 @@ Ensure you have the following installed:
 - **Vue 3** (Composition API)
 - **Vite** (for fast development and build processes)
 - **Tailwind CSS** (for styling)
-- **Vue Draggable** (for drag-and-drop functionality)
+- **HTML Drag-and-Drop API** (for drag-and-drop functionality)
 
 ## Development Commands
 
